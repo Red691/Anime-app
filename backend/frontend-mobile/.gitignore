@@ -1,0 +1,15 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.pub/
+*.class
+*.apk
+*.aab
+*.ipa
+android/app/debug
+android/app/profile
+android/app/release
+ios/Flutter/.last_build_id
+ios/Pods/
+.metadata
