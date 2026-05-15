@@ -1,0 +1,24 @@
+﻿File Path,Kaunsa Code Block
+`backend/src/models/User.js`,Section 1.6
+`backend/src/models/Anime.js`,Section 1.7
+`backend/src/models/Episode.js`,Section 1.8
+`backend/src/models/WatchHistory.js`,Section 1.9
+`backend/src/models/Favorite.js`,Section 1.10
+`backend/src/models/Genre.js`,Section 1.10
+`backend/src/models/Notification.js`,Section 1.10
+`backend/src/middleware/auth.js`,Section 1.12
+`backend/src/middleware/security.js`,Section 1.13
+`backend/src/controllers/animeController.js`,Section 1.14
+`backend/src/controllers/episodeController.js`,Section 1.15
+`backend/src/controllers/userController.js`,Section 1.16
+`backend/src/controllers/adminController.js`,Section 1.17
+`backend/src/routes/animeRoutes.js`,Section 1.18
+`backend/src/routes/episodeRoutes.js`,Section 1.18
+`backend/src/routes/userRoutes.js`,Section 1.18
+`backend/src/routes/adminRoutes.js`,Section 1.18
+`backend/src/app.js`,Section 1.19
+`backend/src/server.js`,Section 1.20
+`backend/package.json`,Section 1.1
+`backend/Dockerfile`,Section 1.21
+`backend/docker-compose.yml`,Section 1.21
+`backend/.env`,Section 1.2
