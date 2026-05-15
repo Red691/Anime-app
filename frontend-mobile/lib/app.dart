@@ -35,6 +35,7 @@ class AnimeStreamApp extends ConsumerWidget {
     );
   }
 }
+}
 
 // lib/config/theme.dart
 import 'package:flutter/material.dart';
